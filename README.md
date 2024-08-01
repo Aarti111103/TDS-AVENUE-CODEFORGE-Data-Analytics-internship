@@ -7,19 +7,19 @@ This repository contains the tasks and projects completed during the Data Analyt
 
 **Description:** This task involves identifying and handling missing data and outliers to ensure the dataset is ready for analysis.
 Files:
-task1_data_cleaning.ipynb: Jupyter notebook containing the data cleaning process.
+TDS_AVENUE_CODEFORGE_Task_1.ipynb: Jupyter notebook containing the data cleaning process.
 # Task 2: Calculate Summary Statistics
 **Objective:** Calculate summary statistics (mean, median, mode, standard deviation) for a dataset.
 
 **Description:** This task involves computing essential summary statistics to understand the central tendency and dispersion of the data.
 Files:
-task2_summary_statistics.ipynb: Jupyter notebook containing the calculations of summary statistics.
+TDS_AVENUE_CODEFORGE_Task_2.ipynb: Jupyter notebook containing the calculations of summary statistics.
 # Task 3: Visualization using Histogram
 **Objective:** Create a histogram or bar chart to visualize the distribution of data in a dataset.
 
 **Description:** This task involves creating visual representations of the data to analyze its distribution and gain insights.
 Files:
-task3_histogram_visualization.ipynb: Jupyter notebook containing the histogram or bar chart visualizations.
+TDS_AVENUE_CODEFORGE_Task_3.ipynb: Jupyter notebook containing the histogram or bar chart visualizations.
 
 # Conclusion
 This internship provided me with valuable experience in data cleaning, visualization, and statistical analysis. The skills I have developed will be instrumental in my future career as a data analyst. I would like to thank Brajendra Singh and the team at TDS AVENUE CODEFORGE for their support and guidance throughout this internship.
